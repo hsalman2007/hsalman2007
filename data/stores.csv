@@ -1,0 +1,133 @@
+STORE C,Name,English Name,Store,Short Name,Region,Store Type
+ABDG01,مستودع نواقص وتوالف (أبها),Shorts and Damages Warehouse (Abha),Shorts and Damages Warehouse (Abha),Damages & Shortages ABHA,Damage WH,Warehouse
+ABST01,معرض الخالدية - أبها,Abha Alkhaldiah - Store,Abha Alkhaldiah - Store,Abha,South,Store
+ABWH01,المستودع الفرعي - أبها,Sub Warehouse - Abha,Sub Warehouse - Abha,Abha WH,Warehouse,Warehouse
+BGST01,معرض بلجرشي,Beljarshi Store,Beljarshi Store,Baljuraishi,South,Store
+BSST01,معرض بيشة,Bisha Showroom,Bisha Store,Bisha,South,Store
+DMST01,معرض الدمام 1,Dammam Showroom 1,Dammam Store 1,Dammam 1,East,Store
+DMST02,معرض الدمام 2,Dammam Showroom 2,Dammam Store 2,Dammam 2,East,Store
+DMWS01,مركز صيانة  4×4 الدمام,4x4 Dammam Workshop,Dammam 4x4 Center,Dammam 4x,East,Workshop
+DWST01,معرض الدوادمي,Dawadmi Showroom,Al Duwadimi Store,Dawadmi,North,Store
+ECST01,الرماية.كوم,Al Rimaya.com,Alrimaya.com,Alrimaya.com,Al Rimaya Online,Online
+ECST02,متجر امازون الالكتروني,Amazon E-Market,Amazon E-Market,Amazon,3P Online,3P
+ECST03,نون للتسوق الالكتروني,Noon E-Market,NOON E-Market,Noon,3P Online,3P
+ECST04,متجر كارفور - فرع غرناطة,Carfour Shop - Garnata Mall,Carfour Shop - Garnata Mall,Carfour Shop - Garnata Mall,Carrefour,Carrefour
+ECST05,متجر السدحان,Sadhan Store,Sadhan Store,Sadhan,Sadhan,3P
+ECST06,فورديل للتسوق الإلكتروني,Fordeal E-Market,Fordeal E-Marketing,Fordeal,3P Online,3P
+ECST07,كارفور فلامنجو مول -  الرياض,Carrefour Flamingo Mall Riyadh,Carrefour Flamingo Mall Riyadh,Carrefour Flamingo Mall Riyadh,Carrefour,Carrefour
+ECST08,كارفور الخيمة مول-  الرياض,Carrefour Al Khaima Mall Riyadh,Carrefour Al Khaima Mall Riyadh,Carrefour Al Khaima Mall Riyadh,Carrefour,Carrefour
+ECST09,كارفور القصر مول-  الرياض,Carrefour Qasr Mall Riyadh,Carrefour Qasr Mall Riyadh,Carrefour Qasr Mall Riyadh,Carrefour,Carrefour
+ECST10,كارفور الرياض بارك مول-  الريا,Carrefour Riyadh Park Riyadh,Carrefour Riyadh Park Riyadh,Carrefour Riyadh Park Riyadh,Carrefour,Carrefour
+ECST11,كارفور تالا مول-  الرياض,Carrefour Tala Mall Riyadh,Carrefour Tala Mall Riyadh,Carrefour Tala Mall Riyadh,Carrefour,Carrefour
+ECST12,كارفور سندس مول-  الرياض,Carrefour Sondos Riyadh,Carrefour Sondos Riyadh,Carrefour Sondos Riyadh,Carrefour,Carrefour
+ECST13,كارفور الشاطئ مول-  الدمام,Carrefour Shatea Mall Dammam,Carrefour Shatea Mall Dammam,Carrefour Shatea Mall Dammam,Carrefour,Carrefour
+ECST14,كارفور ويست افينيو مول-  الدما,Carrefour West Avenue Mall Dammam,Carrefour West Avenue Mall Dammam,Carrefour West Avenue Mall Dammam,Carrefour,Carrefour
+ECST15,كارفور راشد مول-  الخبر,Carrefour Rashid Mall Khobar,Carrefour Rashid Mall Khobar,Carrefour Rashid Mall Khobar,Carrefour,Carrefour
+ECST16,كارفور الغليبات-  الإحساء,Carrefour Qulaibat Al Ahsa,Carrefour Qulaibat Al Ahsa,Carrefour Qulaibat Al Ahsa,Carrefour,Carrefour
+ECST17,كارفور رواف بلازا - بريده,Carrefour Rawaf Plaza Buraidah,Carrefour Rawaf Plaza Buraidah,Carrefour Rawaf Plaza Buraidah,Carrefour,Carrefour
+ECST18,كارفور الجوف سنتر - الجوف,Carrefour Al Jouf Center Al Jouf,Carrefour Al Jouf Center Al Jouf,Carrefour Al Jouf Center Al Jouf,Carrefour,Carrefour
+ECST19,كارفور فلامنقو مول - جدة,Carrefour Flamingo Mall Jeddah,Carrefour Flamingo Mall Jeddah,Carrefour Flamingo Mall Jeddah,Carrefour,Carrefour
+ECST20,كارفور بن سليمان سنتر- جدة,Carrefour Bin Sulaiman Center Jeddah,Carrefour Bin Sulaiman Center Jeddah,Carrefour Bin Sulaiman Center Jeddah,Carrefour,Carrefour
+ECST21,كارفور راشد مول - المدينة,Carrefour Rashid Mall Madina,Carrefour Rashid Mall Madina,Carrefour Rashid Mall Madina,Carrefour,Carrefour
+ECST22,السيف جالري,Al Saif Gallery,Al Saif Gallery,Al Saif Gallery,Al Saif Gallery,3P
+ECST23,كارفور الفرسان - الدمام,Carrefour Al Fursan Dammam,Carrefour Al Fursan Dammam,Carrefour Al Fursan Dammam,Carrefour,Carrefour
+ECST24,فض فض,FadFad Store,FadFad Store,Fadfad,3P Online,3P
+ECST25,كارفور العزيزية المدينة,Carrefour Aziziya Madina,Carrefour Aziziya Madina,Carrefour Aziziya Madina,Carrefour,Carrefour
+ECST26,كارفور القدس بلازا - الرياض,Carrefour Al Quds Plaza – Riyadh,Carrefour Al Quds Plaza – Riyadh,Carrefour Al Quds Plaza – Riyadh,Carrefour,Carrefour
+ECST27,B&Q,B&Q,B&Q,B&Q,B&Q,3P
+ECST28,Carrefour Dammam Dark Store,Carrefour Dammam Dark Store,Carrefour Dammam Dark Store,Carrefour Dammam Dark Store,Carrefour,Carrefour
+ECST29,Manarah,Manarah,Manarah,Manarah,3P Online,3P
+ECST30,كارفور نجران سيتي سنتر - نجران,Carrefour Najran City Center,Carrefour Najran City Center,Carrefour Najran City Center,Carrefour,Carrefour
+ECST31,كارفور المنار مول - جدة,Carrefour Al Manar Mall,Carrefour Al Manar Mall,Carrefour Al Manar Mall,Carrefour,Carrefour
+HFST01,معرض حفر الباطن 1,Hafr Albatin Showroom 1,Hafar Al Batin Store 1,Hafr Al Batin 1,East,Store
+HFST02,معرض حفر الباطن 2,Hafr Albatin Showroom,Hafar Al Batin Store 2,Hafr Al Batin 2,East,Store
+HLST01,معرض حائل 1,Hail Showroom 1,Hail Store 1,Hail 1,North,Store
+HLST02,معرض حائل 2,Hail Showroom 2,Hail Store 2,Hail 2,North,Store
+HO,HO,Head Office,Not to use - HO,HO,HO,Head Office
+HOWS01,مستودع تحويلات الجملة  الإدارة,Whole Sales Transfers,Whole Sales Transfers,Wholesale Transfer,Wholesale Transfers,Other
+HQST01,مندوب مكتب الادارة,HQ Salesman,HQ Salesman,HQ Salesman,Wholesale,Wholesale
+IHST01,معرض الأحساء 1,Zahran Road Showroom (Al Ihsa),Al Ahsa Store 1,Al Ahsa 1,East,Store
+IHST02,معرض الأحساء 2,Ihsa Showroom 2,Al Ahsa Store 2,Al Ahsa 2,East,Store
+JBST01,معرض الجبيل,Al Jubail Showroom,Al Jubail Store,Jubail,East,Store
+JDST01,معرض جدة طريق المدينة 1,Madina Road Showroom 1 (Jeddah) ,Al Madinah Rd. Store 1 - Jeddah,Jeddah 1,West,Store
+JDST02,معرض جدة الأندلس,AL Andlous Showroom (Jeddah),Al Andlous Store - Jeddah,Jeddah Andlous,West,Store
+JDST03,معرض جدة طريق المدينة 2,Madina Road Showroom 2 (Jeddah) ,Al Madinah Rd. Store 2 - Jeddah,Jeddah 2,West,Store
+JDST04,معرض جدة طريق الحرمين ,Alharamain Road Store (Jeddah),Alharamain Road Store (Jeddah),Haramain,West,Store
+JDWS01,مركز صيانة 4×4 جدة,4x4 Jeddah Workshop,Jeddah 4x4 Center,Jeddah 4x,West,Store
+JFST01,معرض الجوف,Al Jouf  Showroom,Al Jouf Store,Al Jouf,North,Store
+JZST01,معرض جيزان,Gazan Store,Jazan Store,Jizan,South,Store
+KBST01,معرض الخبر,Coastal Road Showroom (Khobar),Al Khobar Store,Khobar,East,Store
+KJST01, معرض الخرج 1,Al Kharj Showroom 1,Al Kharj Store 1,Kharj 1,Central,Store
+KJST02,معرض الخرج 2,Al Kharj Showroom 2,Al Kharj Store 2,Kharj 2,Central,Store
+KMST01,معرض خميس مشيط 1 -الامير سلطان,Khamis Mushait -Prince Sultan,Khamis Mushait Store 1,Khamis 1,South,Store
+KMST02,معرض خميس مشيط 2-ط الملك فهد,Khamis Mushait - King Fahad Rd,Khamis Mushait Store 2,Khamis 2,South,Store
+MDST01,معرض المدينة المنورة,AL Madina Showroom (AL Madina),Medina Store,Madina,West,Store
+MJST01,معرض المجمعة,Majma Store,Magma Showroom,Majma,North,Store
+MKST01,معرض مكة المكرمة,Makkah Store,Makkah Store,Makkah,West,Store
+NGST01,معرض نجران-العريسة-ط.الملك فهد,Nagran Showroom,Najran Store,Najran,South,Store
+NMST01,معرض نماص,Namas Showroom,Namas Store,Namas,South,Store
+QMST01,معرض القصيم,Al Qaseem,Al Qassim Store,Qaseem,North,Store
+QMWS01,مركز صيانة 4×4 القصيم,4x4 Al Qaseem Workshop,4x4 Al Qaseem Workshop,Qaseem 4x,North,Store
+RYCK01,مستودع اصناف تحت الفحص,Checking & Review,Inspection & Review Warehouse,Check & Review,Damage WH,Warehouse
+RYDG01,مستودع نواقص وتوالف (الرياض),Shorts and Damages Warehouse (Riyadh),Damages & Shortages Warehouse - Riyadh,Damages & Shortages RYD,Damage WH,Warehouse
+RYPH01,مستودع اصناف للتصوير,Photo Shoot,Photo Shoot Location,Photoshoot Location,Photoshoot,Other
+RYPK01,PIK Location,PIK Location,PIK Location,PIK,3P Online,3P
+RYRW01,مستودع ورشة التبريد,Referigeration Workshop Warehouse,Referigeration Workshop Warehouse,Refrigeration Workshop,Technician,Store
+RYST01,معرض البديعة,Badia Showroom 1 (Riyadh),Al Badi'ah Store - Riyadh,Badia,Central,Store
+RYST02,معرض الفلاح,Airport Road Showroom (Riyadh),Al Falah Store - Riyadh,Al Falah,Central,Store
+RYST03,معرض القدس - مخرج 10,Ring Road - Alqots Showroom (Riyadh),Al Quds Store - Riyadh,Al Qods,Central,Store
+RYST04,طريق الملك فهد (الرياض),King Fahad Road Store (Riyadh),Al Aqiq Store - Riyadh,Aqiq 1,Central,Store
+RYST05,معرض طريق خريص,Khorais Road Showroom (Riyadh),Khurais Rd. Store - Riyadh,Khorais,Central,Store
+RYST06,معرض طريق التخصصي,Taqassosi Street Showroom (Riyadh),Takhassusi St. Store - Riyadh,Taqasussi,Central,Store
+RYST07,معرض الفيحاء - مخرج 15,Exit15 Showroom (Riyadh),Al Fayha Store - Riyadh,Exit 15,Central,Store
+RYST08,معرض حطين - الثغر بلازا,Althager Plaza Showroom (Riyadh),Al Thaghr Plaza Store - Riyadh,Thager Plaza,Central,Store
+RYST09,معرض وادي لبن,Wadi Laban Store,Wadi Laban Store - Riyadh,Wadi Laban,Central,Store
+RYST10,معرض وادي نمار,Wadi Namar Store,Wadi Namar Store,Wadi Namar,Central,Store
+RYST11,معرض طويق,Tuwaiq Showroom,Tuwaiq Showroom,Tuwaiq,Central,Store
+RYTG01,مستودع مستلزمات البنادق,Gun Technician Stock,Gun Technician Stock - Takhassusi,Guns Technician,Technician,Warehouse
+RYVS01,مبيعات التوزيع 1 - الظن - 8923,Salesman 1 - AL Than -8923,Al Rimaya - Salesman 1,Salesman - Ahmed Al Zan,Wholesale,Wholesale
+RYVS02,مبيعات التوزيع 2- عيدروس 11841,Salesman 2 - Aydaros - 11841,Al Rimaya - Salesman 2,Salesman - Aydaros,Wholesale,Wholesale
+RYVS03,مبيعات التوزيع 3-شريف 2713,Salesman 3 - Sharif - 27133,Al Rimaya - Salesman 3,Salesman - Sharif,Wholesale,Wholesale
+RYVS04,مبيعات التوزيع 4 -  ياسر 20813,Salesman 4 - Yasir - 20813,Al Rimaya - Salesman 4,Salesman - Yasir,Wholesale,Wholesale
+RYVS05,مبيعات التوزيع 5 - احمد 27451,Salesman 5 - Ahmed - 27451,Salesman 5 - Ahmed - 27451,Salesman - Ahmed,Wholesale,Wholesale
+RYVS06,مبيعات التوزيع 6-أ.ممدوح ٢٨٦٨٢,Salesman 6 - A.Mamdouh - 28682,Salesman 6 - A.Mamdouh - 28682,Salesman - Ahmed Mamdouh,Wholesale,Wholesale
+RYVS07,مبيعات التوزيع 7-عدنان 28866,Salesman 7 - Adnan - 28866,Salesman 7 - Adnan - 28866,Salesman - Adnan,Wholesale,Wholesale
+RYWH01,المستودع المركزي (الرياض),Main Warehouse (Riyadh),Main Warehouse - Riyadh,Riyadh WH,Warehouse,Warehouse
+RYWS01,مركز صيانة  4×4 خريص,ARB Khorais Workshop (Riyadh),Khurais Rd. 4x4 Center- Riyadh,Khoraix 4x,Central,Workshop
+RYWS02,مركز صيانة  4×4 الشفا,4x4 Al Shifa Workshop (Riyadh),Al Shifa 4x4 Center - Riyadh,Shifa 4x,Central,Store
+RYWS03,مركز صيانة مخرج 5,Exit 5 Workshop,Exit 5 Workshop,Exit 5 Workshop,Technician,Store
+RYWS05,مركز صيانة  4×4 العقيق,ARB Aqiq Workshop (Riyadh),ARB 4*4 Workshop Aqiq,Aqiq 4x,Central,Workshop
+RYWS06,ورشة الخياطة,Rimaya Tailor Workshop,Tailor Workshop,Tailor Workshop,Tailor Workshop,Tailor
+SAMPLE,مخزن عينات الاصناف,Items Samples Stores,Items Samples Store,Items Samples,Samples,Other
+SAMPLE2,مخزن عينات قسم التسويق,Marketing Samples Stores,Marketing Samples Store,Marketing Samples,Samples,Other
+SBST01,معرض صبيا,Sebia Showroom,Sabya Store,Sabia,South,Store
+TBST01,معرض طبرجل ,Tabarjal Stores,Tabarjal Stores,Tabarjal,North,Store
+TFST01,معرض الطائف,Al Taif Showroom,Al Taif Store,Taif,West,Store
+TKST01,معرض تبوك 1,Tabuk Showroom 1,Tabouk Store 1,Tabuk 1,North,Store
+TKST02,معرض تبوك 2,Tabuk Showroom 2,Tabouk Store 2,Tabuk 2,North,Store
+TMST01,معارض الرماية المؤسمية المؤقته,Seasonal Store,Temporary Seasonal Store,Temporary Seasonal Store,Exhibition,Exhibition
+TMST02,معارض الرماية الموسمية المؤقته - 2,Seasonal Store - 2,Temporary Seasonal Store 2,Temporary Seasonal Store 2,Exhibition,Seasonal
+ULST01,معرض العلا,Al Ula Store,Al Ula Store,Al Ula,North,Store
+UNST01,معرض عنيزة,Unayzah Store,Unayzah Store,Unaiza,North,Store
+UNWH01,المستودع الفرعي - عنيزة,Sub Warehouse - Uniza,Sub Warehouse - Uniza,Unaiza WH,North,Warehouse
+YNST01,معرض ينبع,Yanbu Store,Yanbu Store,Yanbu,West,Store
+ZFST01,معرض الزلفي,Al Zolfy Showroom,Az Zulfi Store,Zulfi,North,Store
+BHST01,معرض الباحه,Baha Store,Baha Store,Al Baha,South,Store
+TRANSIT,,IN-TRANSIT - KSA,IN-TRANSIT - KSA,Intransit,Transit,Transit
+JAHEZ,جاهز,JAHEZ,Warehouse,Jahez,JAHEZWH,JAHEZWH
+QTST01,,Qatar Shil Exhibition,Qatar Shil Exhibition,Qatar Exhibition,Exhibition,Exhibition
+AMWH01,مستودع متجر امازون الالكتروني ,Warehouse Amazon E-Market,Warehouse Amazon E-Market,Amazon,3P Online,3P
+ARST01,معرض عرعر,Arar Store,Arar Store,Arar,North,Store
+NOWH01,مستودع متجر نون الالكتروني,Warehouse Noon E-Market ,Warehouse Noon E-Market ,Noon,3P Online,3P
+RYVS08,مبيعات التوزيع 8 محمد - 29818,Salesman 8 - Mohammed - 29818,Salesman 8 - Mohammed - 29818,Mohammed Shabaan,Wholesale,Wholesale
+TMST03-T01,معارض الرماية المؤسمية المؤقته 1,Seasonal Store 1,Seasonal Store 1,Exhibition,Exhibition,Exhibition
+RYST12,معرض العقيق 2,Aqiq 2 Showroom - Riyadh,Aqiq 2 Showroom - Riyadh,Aqiq 2,Central,Store
+SKST01,معرض سكاكا,Sakaka Showroom,Skaka Store,Sakaka,North,Store
+ECST32,ترينديول,Trendyol,Trendyol,Trendyol,3P Online,3P
+RYVS09,مبيعات التوزيع 9 - 39840 الفاضل 	,Salesman 9 - 39840,Salesman Fadil,Salesman Fadil,Wholesale,Wholesale
+RYVS10, 39839مبيعات التوزيع 10 - شعبان ,Salesman 10 - 39839,Salesman 10 - Shaban,Salesman 10 - Shaban,Wholesale,Wholesale
+RYVS11,مبيعات التوزيع 11 المتولي 39838,Salesman 11 - 39838,Salesman 11 - Mutawali,Salesman 11 - Mutawali,Wholesale,Wholesale
+RYVS12,مبيعات التوزيع Mohamed Zouhaier 38850,Salesman ARB 12 38850,Mohammed Zuhair,Mohammed Zuhair,Wholesale,Wholesale
+TFST02,معرض الطائف2,Al Taif Showroom 2,Al Taif Showroom 2,Taif 2,West,Store
+MAST01,معرض محايل عسير,Muhayil Aseer - Store,Muhayil Aseer - Store,Muhayil Aseer,South,Store
+RYVS13,مبيعات التوزيع- 13 40607 محمود,Salesman 13- 40607,Salesman 13- 40607,Salesman - Mahmoud,Wholesale,Wholesale
